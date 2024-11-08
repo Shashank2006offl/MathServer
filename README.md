@@ -1,4 +1,4 @@
-[# Ex.05 Design a Website for Server Side Processing
+# Ex.05 Design a Website for Server Side Processing
 ## Date:07-11-2024
 
 ## AIM:
@@ -145,4 +145,3 @@ button:hover {
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
-](https://github.com/Shashank2006offl/MathServer/blob/main/README.md)
