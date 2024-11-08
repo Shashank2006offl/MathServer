@@ -141,7 +141,7 @@ button:hover {
 ```
 
 ## HOMEPAGE:
-![alt text](<Screenshot 2024-11-07 103041.png>)
+![image](https://github.com/user-attachments/assets/a082dbeb-df7c-405b-a9ce-de24c54469d0)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
